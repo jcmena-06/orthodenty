@@ -10,7 +10,7 @@
 .grid-container {
     display: grid;
     grid-template-rows: auto auto auto auto auto auto auto;
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Comfortaa', cursive;
 }
 .main-header img {
     max-width: 100%;
